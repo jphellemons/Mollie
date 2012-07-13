@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <item type="error">
+    <errorcode>-3</errorcode>
+    <message>There is a problem with the 'reporturl' you have provided: The URL host must not be 'localhost': localhost</message>
+  </item>
+</response>

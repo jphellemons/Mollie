@@ -1,0 +1,5 @@
+C:\Users\JP\Documents\Visual Studio 11\Projects\MollieSample\MollieSample\bin\MollieSample.dll
+C:\Users\JP\Documents\Visual Studio 11\Projects\MollieSample\MollieSample\bin\MollieSample.pdb
+C:\Users\JP\Documents\Visual Studio 11\Projects\MollieSample\MollieSample\obj\Debug\MollieSample.csprojResolveAssemblyReference.cache
+C:\Users\JP\Documents\Visual Studio 11\Projects\MollieSample\MollieSample\obj\Debug\MollieSample.dll
+C:\Users\JP\Documents\Visual Studio 11\Projects\MollieSample\MollieSample\obj\Debug\MollieSample.pdb

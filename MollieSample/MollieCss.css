@@ -1,0 +1,12 @@
+﻿body {
+    padding: 0px;
+    margin: 0px;
+    font-family: verdana;
+    font-size: 16px;
+}
+ul, li {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    list-style-position: inside;
+}
